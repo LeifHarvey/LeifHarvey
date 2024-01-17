@@ -1,6 +1,6 @@
-#### Hello!
+#### Hello! :wave:
 
-I am a student at St. Lawrence University in Canton, NY. 
+I am a student at St. Lawrence University in Canton, NY.
 
 I am studying Computer Science and Statistics, and majoring in both.
 
