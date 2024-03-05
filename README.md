@@ -1,11 +1,5 @@
-#### Hello!
+I am a Junior at St. Lawrence University majoring in Computer Science and Statistics. As a Computer Science major, I am excited by Software Development and Cybersecurity; I plan on engaging with those fields in the future. Recently, I've enjoyed exploring the world of web security and pondering how to build safer networks.
 
-I am a student at St. Lawrence University in Canton, NY.
+I also compete in NCAA DI Nordic Skiing on the EISA circuit and on the DIII level for Outdoor Track, where I focus on the 400m and 800m races.
 
-I am majoring in both Computer Science and Statistics.
-
-I compete in NCAA D1 Nordic Skiing and D3 Outdoor Track and Field for St. Lawrence University.
-
-I am currently interested in Cybersecurity and I am doing independent learning related to that. 
-
-You can reach me at laharv21@stlawu.edu
+Email: laharv21@stlawu.edu
